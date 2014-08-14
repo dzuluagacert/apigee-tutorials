@@ -8,7 +8,7 @@
                     "tokens": [
                         {
                             "xpath": "/AssignMessage/Set/Headers/Header[@name='ENV']",
-                            "value": "TEST1234"
+                            "value": "TESTAUG2014-14"
                         }
                     ]
                 }
